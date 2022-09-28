@@ -6,7 +6,7 @@
     "description": "Buy or rent spacecrafts"
   },
   "paths": {
-    "/spacecrafts/{spacecraftId}": {
+    "/spacecrafts/{spacesdaasdcraftId}": {
       "parameters": [
         {
           "name": "spacecraftId",
